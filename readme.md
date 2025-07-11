@@ -9,7 +9,7 @@ Welcome to my **Ticketing System** project — a simple web app where users can 
 
 - 📝 Users can create support tickets  
 - 📄 View all submitted tickets in a table  
-- ✏️ Update ticket status (e.g., Open, In Progress, Resolved)  
+- ✏️ Update ticket status
 - 🔐 Basic login/logout using Supabase Auth  
 - 📦 Real-time database powered by Supabase  
 
@@ -21,9 +21,9 @@ Welcome to my **Ticketing System** project — a simple web app where users can 
 |---------------|----------------|
 | **TypeScript** | Strongly typed JavaScript for better structure |
 | **JavaScript** | Used for client-side logic |
-| **Supabase** | Backend: Auth + Realtime Database (PostgreSQL) |
+| **Supabase** | Backend: Auth + Realtime Database |
 | **HTML/CSS** | Basic frontend structure and styling |
-| **Vite** or **Parcel** *(if used)* | Fast dev environment *(optional)* |
+| **Vite**     | Fast dev environment |
 
 ---
 
@@ -64,15 +64,15 @@ VITE_SUPABASE_ANON_KEY=your_anon_key
 npm run dev
 ```
 
-Now go to [http://localhost:5173](http://localhost:5173) ✨
+Now go to [http://localhost:5173](http://localhost:5500) ✨
 
 ---
 
 ## 🔮 Future Plans
 
-- [ ] Add user roles (Admin vs User)
+- [ ] Add user roles
 - [ ] Upload attachments to Supabase storage
-- [ ] Better UI/UX with a component library (like Tailwind or Chakra UI)
+- [ ] Better UI/UX with a component library
 - [ ] Add filters/search for ticket list
 - [ ] Email notifications on ticket updates
 
@@ -93,9 +93,9 @@ This was a great way to practice:
 ## 📬 Connect With Me
 
 If you have any questions or want to collaborate:
-- 💌 Email: yourmail@example.com
+- 💌 Email: work.himanshu.kumaar@gmail.com
 - 🧑‍💻 GitHub: [@himanshukumaaar](https://github.com/himanshukumaaar)
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourname)
+- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/himanshukumaaar/)
 
 ---
 
