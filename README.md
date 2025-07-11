@@ -7,6 +7,12 @@ Welcome to my **Ticketing System** project — a simple web app where users can 
 
 ---
 
+## 🔗 Live Demo
+
+([Click here to view the live app 🚀](https://ticketing-system-demo.netlify.app/))
+
+---
+
 ## 📖 About
 
 **Ticketing System** is a demo web app where users can create and track support tickets, and admins can manage and update them.  
